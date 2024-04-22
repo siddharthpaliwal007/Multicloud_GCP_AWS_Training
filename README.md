@@ -1,4 +1,5 @@
-# luxxy-aws-gcp-training
+# Multicloud_GCP_AWS_Training
+
 This project demonstrates:
 - How to create AWS and GCP users and add policies to it through User Group Policies
 - How to deploy infrastructure as a code using Terraform
@@ -27,8 +28,6 @@ Create User called terraform and associate it to S3 user group
 On Security credentials tab, create Access Keys and download it as a .CSV file
 
 ### Google Cloud Platform (GCP)
-
-Download project files from https://tcb-public-events.s3.amazonaws.com/icp/mission1.zip
 
 Connect to Cloud Shell and manually upload .zip and .csv files
 
@@ -219,4 +218,4 @@ DONE! We have simulated a migration from a on-premises archtecture to a multiclo
 
 ## Acknowledgements
 
-Many thanks to @Jean Rodrigues
+Special Thanks to @Jean Rodrigues and the Cloud Bootcamp Team for conducting the training session. 
