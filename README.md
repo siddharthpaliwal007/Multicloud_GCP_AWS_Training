@@ -7,7 +7,7 @@ This project demonstrates:
 - How to migrate on-premises application files and database to a multicloud environment
 
 ## Solution Architecture
-![alt text](https://thecloudbootcamp.com/wp-content/uploads/2022/08/PT-PPT-MISSAO-1-2-3-ICP2_FINAL-2.png)
+![Solution Architecture](https://github.com/siddharthpaliwal007/Multicloud_GCP_AWS_Training/assets/25987777/c50520bb-c831-453e-a114-bc4daba11147)
 
 ## Requisites
 
